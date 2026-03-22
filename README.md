@@ -24,4 +24,10 @@ Where do each group start/end their trips?
  How does usage vary by month/day?
 
 # 2. Prepare
+I verified if the data meets the ROCCC (Reliable, Original, Comprehensive, Current, Cited) criteria. It does!
 
+1.	Firstly, its reliable as it comes from a reliable source. Data comes directly from Divvy, Chicago's official bike-share system operated by the Chicago Department of Transportation (CDOT). As it is operated by the government, it follows strict data collection protocols and government agencies are considered reliable.
+2.	It is original as it comes from their direct website and has first party data making it a primary source.
+3.	It is comprehensive as it has all the essential fields needed to determine the difference between casual and member riders.
+4.	It is current, the data collected is vast and less then an year old, with it starting from July which was 6 months ago and ending at December which was 3 months ago.
+5.	Lastly it is citied, as it is present directly and accessible through https://divvy-tripdata.s3.amazonaws.com/index.html . It has proper licenses too which adds to credibility
