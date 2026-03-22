@@ -7,8 +7,8 @@ I am working as a junior data analyst in the marketing team at Cyclistic, which 
 # The data analysis Process
 
 
-#Ask
-Business Task: Using the data provided to determine how the annual member compares with the casual rider, and using the data given to make a data-driven conclusion on how to convert the casual rider into an annual member.
+# 1. Ask
+**Business Task**: Using the data provided to determine how the annual member compares with the casual rider, and using the data given to make a data-driven conclusion on how to convert the casual rider into an annual member.
 Leading questions:
 How do ride patterns differ between members and casual riders? 
 What times of day/week do each group prefer? 
@@ -17,4 +17,5 @@ What bike types do each group use?
 Where do each group start/end their trips?
  How does usage vary by month/day?
 
-#Prepare
+# 2. Prepare
+
