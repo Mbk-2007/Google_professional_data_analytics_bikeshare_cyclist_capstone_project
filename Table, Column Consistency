@@ -1,0 +1,10 @@
+-- Checking for column consistency in the tables
+
+SELECT 
+  table_name,
+  COUNT(*) AS column_count,
+  STRING_AGG(column_name ORDER BY ordinal_position) AS column_list
+FROM `portfolio-488812.bikeshare.INFORMATION_SCHEMA.COLUMNS`
+WHERE table_name IN ('july', 'aug', 'sep', 'oct', 'nov', 'dec')
+GROUP BY table_name
+ORDER BY table_name;
