@@ -1,0 +1,7 @@
+-- adding two new columns
+
+ALTER TABLE `portfolio-488812.bikeshare.cleaned_all`
+ADD COLUMN month INTEGER,
+ADD COLUMN hour_of_day INTEGER;
+
+
