@@ -86,24 +86,22 @@ I checked each cells, data type to make sure it was correctly formatted.
 # 3. Process
 
 **Combining tables into one:**
-
 I first combined all the tables into one table and named it all (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/combining_tables_into_one)
 
 **Number of Duplicates:**
-
 . I then checked for number of **duplicates** in ride_id. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_duplicates)
 
 **Number Of nulls:**
-
 .I then checked for **number of null** values (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_nulls)
 
 **Removing duplicates:**
 I created a new table where I would perform all my cleaning, and to remove the duplicates (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Duplicate_removal)
 
 **Removing Nulls:**
+I removed all the nulls from the new table (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/null_removal)
 
-
-
+**Adding new month and hour_of_day columns:**
+In order to analyze my data, I first had to make sure I had all the data I needed, so I created two new columns called "month" and "hour_of_day"
 
 
 
