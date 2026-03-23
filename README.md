@@ -73,7 +73,10 @@ I checked each cells, data type to make sure it was correctly formatted.
 
 
 
-Next I proceeded to check the consistency of all the tables (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/commit/8030f0853ba20bb81d4e26aa8be68f4a5bf5b2aa)
+.I proceeded to check the consistency of all the tables (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/commit/8030f0853ba20bb81d4e26aa8be68f4a5bf5b2aa)
+
+. I inspected each month/table to account for total trips/rows, total valid station names and % of missing values in station names, and number of unique rider type numbers per table
+
 
 
 
