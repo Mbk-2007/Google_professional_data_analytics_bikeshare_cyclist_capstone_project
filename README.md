@@ -75,15 +75,21 @@ I checked each cells, data type to make sure it was correctly formatted.
 
 .I proceeded to check the consistency of all the tables https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Table%2C%20Column%20Consistency 
 
-. I inspected each month/table to account for total trips/rows, total valid station names and % of missing values in station names, and number of unique rider type numbers per table (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/data%20validation)
+. I inspected each month/table to account for **total trips/rows**, **total valid station names** and **% of missing values** in station names, and **number of unique rider type** numbers per table (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/data%20validation)
 
 <img width="1435" height="279" alt="Screenshot 2026-03-23 135405" src="https://github.com/user-attachments/assets/4a7f289f-1396-4780-be59-6b5913df6782" />
+
+. I then checked for number of **duplicates** in ride_id.
 
 
 
 # 3. Process
 
-I first combined all the tables into one table and named it all.
+**Combining tables**
+I first combined all the tables into one table and named it all (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/combining_tables_into_one)
+
+**
+
 
 
 
