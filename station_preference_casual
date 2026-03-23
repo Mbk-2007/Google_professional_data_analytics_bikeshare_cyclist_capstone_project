@@ -1,0 +1,9 @@
+-- station preference casual
+SELECT 
+    start_station_name,
+    COUNT(*) as rides_count
+FROM `portfolio-488812.bikeshare.cleaned_all`
+WHERE member_casual = 'casual'
+GROUP BY start_station_name
+ORDER BY rides_count DESC
+LIMIT 3;
