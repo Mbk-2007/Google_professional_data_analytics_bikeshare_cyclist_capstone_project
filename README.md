@@ -14,7 +14,7 @@ I am working as a junior data analyst in the marketing team at Cyclistic, which 
 1. Lily Moreno, director of the marketing team and my primary stakeholder.
 2. Cyclistic executive team.
 3. Cyclistic marketing Analytics team.
-4. 
+   
 **Leading questions:**
 
 How do ride patterns differ between members and casual riders? 
@@ -70,6 +70,9 @@ I checked each cells, data type to make sure it was correctly formatted.
 <img width="1577" height="811" alt="image" src="https://github.com/user-attachments/assets/1203b08b-70c9-45c1-9b1f-92777b54f29d" />
 
 <img width="1596" height="849" alt="image" src="https://github.com/user-attachments/assets/bfd817cb-1d79-4ad3-a4bb-128e9e596d89" />
+
+
+Next I proceeded to check the consistency of all the tables:
 
 
 
