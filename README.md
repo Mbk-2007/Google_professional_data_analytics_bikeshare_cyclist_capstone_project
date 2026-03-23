@@ -109,6 +109,8 @@ I then filled the new values of these two tables (https://github.com/Mbk-2007/Go
 
 # 4. Analysis
 
+**Bike Preference:**
+I analyzed the different bike type preferences of casual and member riders. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Bike_preference_analysis)
 
 
 
