@@ -105,6 +105,6 @@ In order to analyze my data, I first had to make sure I had all the data I neede
 
 
 **Filling the month and hour_of_day columns**
-I then filled the new values of these two tables (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/month%2Bhour_of_day%20column%20added)
+I then filled the new values of these two tables (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/filling_month%2Bhour_of_day)
 
 
