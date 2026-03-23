@@ -85,13 +85,16 @@ I checked each cells, data type to make sure it was correctly formatted.
 
 # 3. Process
 
-**Combining tables into one**
+**Combining tables into one:**
+
 I first combined all the tables into one table and named it all (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/combining_tables_into_one)
 
-**Number of Duplicates**
+**Number of Duplicates:**
+
 . I then checked for number of **duplicates** in ride_id. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_duplicates)
 
-**Number Of nulls**
+**Number Of nulls:**
+
 .I then checked for **number of null** values (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_nulls)
 
 
