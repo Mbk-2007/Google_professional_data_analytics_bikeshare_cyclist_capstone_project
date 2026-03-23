@@ -79,18 +79,23 @@ I checked each cells, data type to make sure it was correctly formatted.
 
 <img width="1435" height="279" alt="Screenshot 2026-03-23 135405" src="https://github.com/user-attachments/assets/4a7f289f-1396-4780-be59-6b5913df6782" />
 
-. I then checked for number of **duplicates** in ride_id. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_duplicates)
 
-.I then checked for **number of null** values
 
 
 
 # 3. Process
 
-**Combining tables**
+**Combining tables into one**
 I first combined all the tables into one table and named it all (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/combining_tables_into_one)
 
-**
+**Number of Duplicates**
+. I then checked for number of **duplicates** in ride_id. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_duplicates)
+
+**Number Of nulls**
+.I then checked for **number of null** values (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_nulls)
+
+
+
 
 
 
