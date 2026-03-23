@@ -1,0 +1,9 @@
+
+
+UPDATE `portfolio-488812.bikeshare.cleaned_all`
+SET month = EXTRACT(MONTH FROM started_at)
+WHERE TRUE;
+
+UPDATE `portfolio-488812.bikeshare.cleaned_all`
+SET hour_of_day = EXTRACT(hour FROM started_at)
+WHERE TRUE;
