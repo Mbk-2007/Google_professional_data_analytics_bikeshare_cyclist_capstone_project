@@ -1,0 +1,6 @@
+--Null removal
+
+DELETE FROM `portfolio-488812.bikeshare.cleaned_all`
+WHERE start_station_name IS NULL 
+   OR end_station_name IS NULL
+   OR member_casual IS NULL;
