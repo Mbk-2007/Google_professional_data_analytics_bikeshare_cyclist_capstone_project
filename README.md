@@ -98,8 +98,9 @@ I first combined all the tables into one table and named it all (https://github.
 .I then checked for **number of null** values (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_nulls)
 
 **Removing duplicates:**
+I created a new table where I would perform all my cleaning, and to remove the duplicates (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Duplicate_removal)
 
-
+**Removing Nulls:**
 
 
 
