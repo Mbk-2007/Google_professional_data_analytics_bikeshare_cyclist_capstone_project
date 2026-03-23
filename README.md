@@ -79,7 +79,9 @@ I checked each cells, data type to make sure it was correctly formatted.
 
 <img width="1435" height="279" alt="Screenshot 2026-03-23 135405" src="https://github.com/user-attachments/assets/4a7f289f-1396-4780-be59-6b5913df6782" />
 
-. I then checked for number of **duplicates** in ride_id.
+. I then checked for number of **duplicates** in ride_id. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/num_of_duplicates)
+
+.I then checked for **number of null** values
 
 
 
