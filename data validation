@@ -1,0 +1,131 @@
+-- Check for missing data in July (sample one month)
+SELECT
+'july' as month, 
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+ 
+  
+FROM `portfolio-488812.bikeshare.july`
+
+UNION ALL
+
+-- Check for missing data in August (sample one month)
+SELECT 
+
+'August' as month,
+
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+  
+  
+FROM `portfolio-488812.bikeshare.aug`
+
+UNION ALL
+
+-- Check for missing data in September (sample one month)
+SELECT 
+
+'September' as month,
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+  
+ 
+FROM `portfolio-488812.bikeshare.sep`
+
+UNION ALL
+
+-- Check for missing data in October (sample one month)
+SELECT 
+
+'October' as month,
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+  
+  
+FROM `portfolio-488812.bikeshare.oct`
+
+UNION ALL
+
+-- Check for missing data in November (sample one month)
+SELECT 
+
+'November' as month,
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+  
+  
+FROM `portfolio-488812.bikeshare.nov`
+
+UNION ALL
+
+-- Check for missing data in December (sample one month)
+SELECT 
+
+'December' as month,
+  COUNT(*) AS total_rows,
+  
+  -- Check for missing station names
+  COUNT(start_station_name) AS valid_start_stations,
+  COUNT(end_station_name) AS valid_end_stations,
+  
+  -- Calculate missing percentages
+  ROUND((1 - COUNT(start_station_name) / COUNT(*)) * 100, 2) AS pct_missing_start,
+  ROUND((1 - COUNT(end_station_name) / COUNT(*)) * 100, 2) AS pct_missing_end,
+  
+  -- Check for valid member_casual values
+  COUNT(DISTINCT member_casual) AS unique_rider_types,
+  
+  
+FROM `portfolio-488812.bikeshare.dec`;
+
+
