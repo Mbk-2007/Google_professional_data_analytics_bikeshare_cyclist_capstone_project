@@ -1,0 +1,20 @@
+-- combining all the tables
+
+CREATE OR REPLACE TABLE `portfolio-488812.bikeshare.all` AS (
+SELECT *
+FROM `portfolio-488812.bikeshare.july`
+UNION ALL
+SELECT *
+FROM `portfolio-488812.bikeshare.aug`
+UNION ALL
+SELECT *
+FROM `portfolio-488812.bikeshare.sep`
+UNION ALL
+SELECT *
+FROM `portfolio-488812.bikeshare.oct`
+UNION ALL
+SELECT *
+FROM `portfolio-488812.bikeshare.nov`
+UNION ALL
+SELECT *
+FROM `portfolio-488812.bikeshare.dec`)
