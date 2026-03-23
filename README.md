@@ -72,7 +72,8 @@ I checked each cells, data type to make sure it was correctly formatted.
 <img width="1596" height="849" alt="image" src="https://github.com/user-attachments/assets/bfd817cb-1d79-4ad3-a4bb-128e9e596d89" />
 
 
-Next I proceeded to check the consistency of all the tables:
+
+Next I proceeded to check the consistency of all the tables (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/commit/8030f0853ba20bb81d4e26aa8be68f4a5bf5b2aa)
 
 
 
