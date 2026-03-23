@@ -1,0 +1,5 @@
+-- Checking for duplicates
+
+SELECT
+COUNT(ride_id) - count(DISTINCT(ride_id) ) as num_duplicates
+FROM `portfolio-488812.bikeshare.all`
