@@ -101,7 +101,7 @@ I created a new table where I would perform all my cleaning, and to remove the d
 I removed all the nulls from the new table (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/null_removal)
 
 **Adding new month and hour_of_day columns:**
-In order to analyze my data, I first had to make sure I had all the data I needed, so I created two new columns called "month" and "hour_of_day"
+In order to analyze my data, I first had to make sure I had all the data I needed, so I created two new columns called "month" and "hour_of_day" (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/month%2Bhour_of_day%20column%20added)
 
 
 
