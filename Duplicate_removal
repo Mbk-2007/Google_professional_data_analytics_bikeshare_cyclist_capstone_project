@@ -1,0 +1,19 @@
+creating a new table where I would do all my cleaning, and to remove duplicates
+
+CREATE OR REPLACE TABLE `portfolio-488812.bikeshare.cleaned_all` AS
+(SELECT DISTINCT(ride_id), 
+rideable_type,
+started_at,
+ended_at,
+start_station_name,
+start_station_id,
+end_station_name,
+end_station_id,
+start_lat,
+start_lng,
+end_lat,
+end_lng,
+member_casual,
+ride_length,
+day_of_week
+FROM `portfolio-488812.bikeshare.cleaned_all`)
