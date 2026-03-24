@@ -388,6 +388,9 @@ Night (8 PM onward): Gradual decline
 ---
 
 **- Ride Pattern over the months**
+
+
+
 <img width="723" height="679" alt="Ride Pattern Over The Months" src="https://github.com/user-attachments/assets/59cd0d57-bb5c-4cb8-8c4f-5cb366767dbc" />
 
 Key Findings – Ride Pattern Analysis (July to December)
