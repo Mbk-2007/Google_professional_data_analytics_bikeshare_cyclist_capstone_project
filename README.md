@@ -242,7 +242,7 @@ Winter (Nov–Dec):
 Casual rides drop sharply
 
 
-**Ride_Pattern_day_of_week:**
+**- Ride_Pattern_day_of_week:**
 
 <img width="1393" height="359" alt="Rides Throughout The Week" src="https://github.com/user-attachments/assets/0f66d54d-2695-419b-8f94-092267c3d969" />
 
@@ -320,7 +320,7 @@ There is a **clear behavioral split**:
 
   
 
-**Ride_pattern_hour_of_day:**
+**- Ride_pattern_hour_of_day:**
 
 <img width="1393" height="679" alt="hour_of_day" src="https://github.com/user-attachments/assets/f095a8d8-fff8-461e-9899-9cc066145dcd" />
 
@@ -375,3 +375,161 @@ Morning (6 AM – 10 AM): Steady increase (commute begins)
 Afternoon (11 AM – 4 PM): Moderate-high activity
 Evening (5 PM – 7 PM): Peak zone
 Night (8 PM onward): Gradual decline
+
+**- Ride Pattern over the months**
+<img width="723" height="679" alt="Ride Pattern Over The Months" src="https://github.com/user-attachments/assets/59cd0d57-bb5c-4cb8-8c4f-5cb366767dbc" />
+
+Key Findings from the Ride Pattern Data
+1. Overall Ride Volume Trend
+Peak month: August – 515,638 rides
+Second highest: July – 494,285 rides
+Lowest month: December – 96,153 rides
+
+Insight:
+Ride demand peaks in summer and declines sharply toward winter.
+
+Interpretation:
+This indicates strong seasonality in bike usage.
+
+2. Seasonal Demand Pattern
+
+Monthly trend shows:
+
+Month	Total Rides
+July	494k
+August	515k (Peak)
+September	467k
+October	417k
+November	234k
+December	96k (Lowest)
+
+Key Insight
+
+Ridership gradually decreases after summer
+There is a major drop between October → November
+December usage is extremely low
+
+Possible reasons
+
+Cold weather
+Holidays
+Shorter daylight hours
+3. Members vs Casual Users
+
+Across all months:
+
+Members dominate ridership
+Casual riders are secondary but still significant in summer
+
+Example:
+
+Month	Member %	Casual %
+July	57.8%	42.2%
+August	57.1%	42.9%
+September	63.1%	36.9%
+October	65.6%	34.4%
+November	72.7%	27.3%
+December	80.4%	19.6%
+
+Insight
+
+As winter approaches, casual riders drop faster than members.
+4. Casual Riders Are Highly Seasonal
+
+Casual rider pattern:
+
+Month	Casual Rides
+August	221k (peak)
+July	208k
+September	172k
+October	143k
+November	64k
+December	18k
+
+Key Insight
+
+Casual riders decrease by ~91% from August → December.
+
+Meaning
+Casual riders mostly use bikes for:
+
+tourism
+leisure
+good weather activities
+5. Members Show More Stable Usage
+
+Members still decline but not as dramatically.
+
+Month	Member Rides
+September	295k (peak)
+August	294k
+July	285k
+October	274k
+November	170k
+December	77k
+
+Insight
+Members likely use bikes for:
+
+commuting
+daily transport
+regular travel
+6. Biggest Month-to-Month Drop
+
+Largest decline occurs:
+
+October → November
+
+Total rides drop from:
+
+417,902 → 234,932
+
+Decrease of 182,970 rides (~44%)
+
+7. Member Share Increases in Winter
+
+Member percentage increases over time:
+
+Summer: ~57–63%
+Winter: ~73–80%
+
+Insight
+Casual riders disappear in colder months while members continue riding.
+
+8. Business Insight
+
+This dataset strongly supports the typical bike-share business pattern:
+
+Casual riders
+
+seasonal
+tourism/leisure driven
+
+Members
+
+consistent
+commute-driven
+
+## 6. Act
+
+From the Analysis and findings from above, here are some of my business suggestions:
+1. Target Electric Bike Users First by offering a “First Month Membership Discount” after 2–3 electric rides
+
+. Show in-app message:
+“You’ve taken 3 electric rides—save 30% with membership!”
+Catch them when they’re already engaged.
+
+2. Make casual users realize how much they are spending by showing a real-time comparison e.g. “You spent $18 this week. Membership would cost $12.”
+ Make the benefit obvious and immediate.
+
+4. Since casuals like electric bikes:
+Offer limited free electric ride minutes for new members e.g. “Upgrade to membership and get 50 e-bike minutes free”
+5. Build more bikes near tourist hotspots → attract casual riders.
+6. Casual users already show strong engagement on weekends, convert them into members by offering weekday discounts and Promoting cost savings of membership
+7. Increase bike availability on Weekends for casual users and on Weekdays for members.
+8. Promote evening rides.
+9. Increase resource availibility around peak hours, such as 5pm, prioratize Evening > Afternoon > Morning > Night.
+10. Since casual riders are high in summer offer membership discounts during peak months like June, July, August, September
+11. During winter months focus on member retention by providing incentives like:
+. discounted renewals
+. loyalty rewards
