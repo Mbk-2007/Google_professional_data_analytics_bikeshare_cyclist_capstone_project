@@ -134,3 +134,75 @@ I caluclated the total trips of riders over the months (https://github.com/Mbk-2
 
 # 5. Share
 
+**- Bike Preference:**
+
+<img width="585" height="679" alt="Bike Preference" src="https://github.com/user-attachments/assets/e1d066e3-4576-4412-a2e8-150e69e70472" />
+
+We can deduce that Members prefer classic bikes:
+Classic: 745,296
+Electric: 652,396
+While Casual riders slightly prefer electric bikes:
+Electric: 421,929
+Classic: 407,112
+
+Interpretation:
+
+Members may favor classic bikes for routine, cost-effective use.
+Casual riders may lean toward electric bikes for convenience or leisure.
+
+
+What We Can deduce is that
+Membership programs are effective at driving higher usage.
+Electric bikes are a strong attraction for occasional users.
+There’s potential to:
+Convert casual users → members (especially electric bike users)
+Promote electric bikes more to members.
+
+
+**- Station Preference**
+
+<img width="489" height="679" alt="Popular_station_casual" src="https://github.com/user-attachments/assets/3a3dbb42-a3af-4fca-b214-5b2ebd0f9910" />
+<img width="489" height="679" alt="Popular station member" src="https://github.com/user-attachments/assets/dfbc230c-6223-4320-88e3-edf94f851088" />
+
+
+**1. Casual Riders – Station Preferences**
+
+Top stations (by ride count):
+
+1. Navy Pier
+2. DuSable Lake Shore Dr & Monroe St 
+3. Michigan Ave & Oak St 
+**Pattern:**
+ Casual riders strongly prefer tourist and recreational locations
+ These stations are:
+- Near waterfronts 
+- Popular attractions
+- Scenic / leisure areas
+
+👉 This suggests casual users ride mostly for:
+
+- Sightseeing
+- Leisure trips
+- Occasional outings
+
+**2. Member Riders – Station Preferences**
+
+Top stations:
+
+1. Kingsbury St & Kinzie St
+2. Clinton St & Washington Blvd
+3. Clinton St & Madison St 
+📌 Pattern:
+Members prefer business district / downtown stations
+These locations are:
+- Close to offices 🏢
+- Transit hubs
+- Daily commute routes
+
+👉 This suggests members ride mostly for:
+
+-Work commuting
+-Daily transportation
+-Routine travel
+
+**Ride_Pattern_day_of_week:**
