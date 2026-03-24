@@ -205,7 +205,42 @@ These locations are:
 - Daily transportation
 - Routine travel
 
+
+
+  **Ride_Duration_Analysis**
+
   
+  <img width="706" height="679" alt="Ride Length Analysis (1)" src="https://github.com/user-attachments/assets/635afc63-e86e-40b0-8ec5-8378617dc562" />
+
+ Key Insights 
+🚴‍♂️ 1. Casual riders ride MUCH longer than members
+Casual Avg: ~19.81 minutes
+Member Avg: ~12.13 minutes
+
+👉 Casual riders ride ~63% longer than members on average.
+
+Insight:
+
+Casual users treat rides more like leisure/experience
+Members use bikes more for commuting or routine travel
+📉 1. Strong seasonal decline (especially for casual riders)
+Casual Riders:
+Peak: August (~23.8 min)
+Lowest: December (~13.7 min)
+Drop: ~10 minutes decrease
+Members:
+Peak: July (~12.94 min)
+Lowest: December (~11.45 min)
+Drop: very small (~1.5 min)
+
+👉 Casual riders are highly seasonal, members are stable
+
+🌦️ 2. Summer vs Winter Behavior
+Summer (July–August):
+Casual rides are longest (~23–24 min)
+Winter (Nov–Dec):
+Casual rides drop sharply
+
 
 **Ride_Pattern_day_of_week:**
 
@@ -282,3 +317,61 @@ There is a **clear behavioral split**:
 * Casual = **Weekend riders**
 * Members = **Weekday riders**
 
+
+  
+
+**Ride_pattern_hour_of_day:**
+
+<img width="1393" height="679" alt="hour_of_day" src="https://github.com/user-attachments/assets/f095a8d8-fff8-461e-9899-9cc066145dcd" />
+
+
+Key Insights from Hour-of-Day Analysis
+⏰ 1. Peak Usage Time (Most Important Insight)
+Both casual riders and members peak at 5 PM (17:00)
+At this hour:
+Members: 152,846 rides (highest overall)
+Casual: 78,095 rides
+
+👉 Interpretation:
+
+This strongly suggests evening commute + leisure overlap
+5 PM is the most critical business hour
+
+
+
+🌙 2. Lowest Activity (Off-Peak Hours)
+Members lowest: 3 AM (~2,216 rides)
+Casual lowest: 4 AM (~2,589 rides)
+
+👉 Interpretation:
+
+Very low demand overnight
+Opportunity to:
+Reduce operations costs
+Schedule maintenance
+
+
+
+ 3. Behavioral Difference: Members vs Casual
+Members:
+Show strong commute behavior
+Gradual rise in morning → peak in evening
+More consistent throughout the day
+Casual Riders:
+More leisure-oriented
+Lower early morning usage
+Sharper increase in afternoon/evening
+
+👉 Key takeaway:
+
+Members = routine users (work/commute)
+Casual = flexible users (leisure/social)
+
+
+
+ 4. Daily Usage Pattern
+Early morning (12 AM – 5 AM): Very low usage
+Morning (6 AM – 10 AM): Steady increase (commute begins)
+Afternoon (11 AM – 4 PM): Moderate-high activity
+Evening (5 PM – 7 PM): Peak zone
+Night (8 PM onward): Gradual decline
