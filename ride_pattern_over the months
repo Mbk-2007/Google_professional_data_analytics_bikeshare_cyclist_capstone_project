@@ -3,7 +3,6 @@
 SELECT 
     member_casual,
    CASE month
-   WHEN 6 THEN 'June'
    WHEN 7 THEN 'July'
    WHEN 8 THEN 'August'
    WHEN 9 THEN 'September'
@@ -13,5 +12,6 @@ SELECT
    END as month,
     COUNT(*) as total_rides
 FROM `portfolio-488812.bikeshare.cleaned_all`
+WHERE month <> 6
 GROUP BY member_casual, month
 ORDER BY member_casual, month;
