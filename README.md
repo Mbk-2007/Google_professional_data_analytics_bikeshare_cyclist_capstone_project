@@ -211,13 +211,13 @@ These locations are:
 
 <img width="1393" height="359" alt="Rides Throughout The Week" src="https://github.com/user-attachments/assets/0f66d54d-2695-419b-8f94-092267c3d969" />
 
-Here’s a clear, **data-analysis-style breakdown** you can use directly in your *Share phase* 👇
+Here’s a clear, breakdown
 
 ---
 
-# 📊 Key Insights from “Rides Throughout The Week”
+📊 **Key Insights from “Rides Throughout The Week**
 
-## 1. Overall Usage Difference
+ 1. Overall Usage Difference
 
 * **Members:** 1,397,692 total rides
 * **Casual users:** 829,041 total rides
@@ -227,7 +227,7 @@ Members take **~68% more rides** than casual users overall.
 
 ---
 
-## 2. Average Daily Usage
+ 2. Average Daily Usage
 
 * **Members:** ~199,670 rides/day
 * **Casual users:** ~118,434 rides/day
@@ -237,9 +237,9 @@ Members are consistently **more active and frequent riders**, indicating habitua
 
 ---
 
-## 3. Weekly Behavior Patterns
+ 3. Weekly Behavior Patterns
 
-### 🚴 Casual Riders (Leisure Pattern)
+🚴 Casual Riders (Leisure Pattern)
 
 * **Peak day:** Saturday (171,127 rides)
 * **Second highest:** Sunday (143,088 rides)
@@ -254,7 +254,7 @@ Casual users ride mostly on **weekends**, suggesting:
 
 ---
 
-### 🚴‍♂️ Members (Routine Pattern)
+🚴‍♂️ Members (Routine Pattern)
 
 * **Peak day:** Wednesday (230,030 rides)
 * High usage: Tuesday–Thursday (very consistent)
@@ -269,7 +269,7 @@ Members ride mostly on **weekdays**, indicating:
 
 ---
 
-## 4. Weekday vs Weekend Contrast
+4. Weekday vs Weekend Contrast
 
 | Group  | Weekdays Behavior | Weekend Behavior |
 | ------ | ----------------- | ---------------- |
