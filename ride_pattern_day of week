@@ -1,0 +1,18 @@
+-- Ride pattern by day of week
+
+SELECT 
+    member_casual,
+    CASE day_of_week
+        WHEN 1 THEN 'Sunday'
+        WHEN 2 THEN 'Monday'
+        WHEN 3 THEN 'Tuesday'
+        WHEN 4 THEN 'Wednesday'
+        WHEN 5 THEN 'Thursday'
+        WHEN 6 THEN 'Friday'
+        WHEN 7 THEN 'Saturday'
+    END as day_name,
+    COUNT(*) as total_rides,
+    AVG(TIME_DIFF(ride_length, TIME '00:00:00', MINUTE) ) as avg_ride_length
+FROM `portfolio-488812.bikeshare.cleaned_all`
+GROUP BY member_casual, day_of_week
+ORDER BY member_casual, day_of_week;
