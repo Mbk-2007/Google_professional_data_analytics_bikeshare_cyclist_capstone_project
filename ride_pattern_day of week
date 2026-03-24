@@ -14,5 +14,5 @@ SELECT
     COUNT(*) as total_rides,
     AVG(TIME_DIFF(ride_length, TIME '00:00:00', MINUTE) ) as avg_ride_length
 FROM `portfolio-488812.bikeshare.cleaned_all`
-GROUP BY member_casual, day_of_week
-ORDER BY member_casual, day_of_week;
+GROUP BY member_casual, day_name
+ORDER BY member_casual, day_name;
