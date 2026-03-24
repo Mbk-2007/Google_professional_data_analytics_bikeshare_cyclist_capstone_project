@@ -205,9 +205,9 @@ These locations are:
 - Daily transportation
 - Routine travel
 
+---
 
-
-  **Ride_Duration_Analysis**
+  **- Ride_Duration_Analysis**
 
   
   <img width="706" height="679" alt="Ride Length Analysis (1)" src="https://github.com/user-attachments/assets/635afc63-e86e-40b0-8ec5-8378617dc562" />
@@ -248,7 +248,7 @@ Casual rides drop sharply
 
 Here’s a clear, breakdown
 
----
+
 
 📊 **Key Insights from “Rides Throughout The Week**
 
@@ -260,7 +260,7 @@ Here’s a clear, breakdown
 👉 **Conclusion:**
 Members take **~68% more rides** than casual users overall.
 
----
+
 
  2. Average Daily Usage
 
