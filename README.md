@@ -113,4 +113,24 @@ I then filled the new values of these two tables (https://github.com/Mbk-2007/Go
 I analyzed the different bike type preferences of casual and member riders. (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Bike_preference_analysis)
 
 
+**Station Preference:**
+I analyzed which stations where primarily prefered by casual riders and by annual riders.
+(https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/station_preference_casual)
+(https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/station_preference_members)
+
+**Ride_Duration_Analysis:**
+I analyzed the max, min and average ride duration of both casual and member riders by month
+(https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/Ride_duration_analysis).
+
+**Ride_Pattern_day_of_week:**
+I calculated the amount of trips casual and member riders make through out the week (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/ride_pattern_day%20of%20week)
+
+**Ride_pattern_hour_of_day:**
+I calculated the amount of trips casual and member riders make through out the day (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/ride_pattern_through%20hours%20of%20day)
+
+**Ride_pattern_months:**
+I caluclated the total trips of riders over the months (https://github.com/Mbk-2007/Google_professional_data_analytics_bikeshare_cyclist_capstone_project/blob/main/ride_pattern_over%20the%20months)
+
+
+# 5. Share
 
