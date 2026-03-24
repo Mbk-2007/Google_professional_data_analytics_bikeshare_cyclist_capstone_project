@@ -1,0 +1,9 @@
+--ride pattern through out the day
+
+SELECT 
+    member_casual,
+    hour_of_day,
+    COUNT(*) as total_rides
+FROM `portfolio-488812.bikeshare.cleaned_all`
+GROUP BY member_casual, hour_of_day
+ORDER BY member_casual, hour_of_day;
