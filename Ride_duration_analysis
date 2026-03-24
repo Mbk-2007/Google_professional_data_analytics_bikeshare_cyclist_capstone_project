@@ -4,7 +4,6 @@ SELECT
     member_casual,
     COUNT(*) as total_rides,
     CASE month
-    WHEN 6 then 'June'
     WHEN 7 then 'July'
     WHEN 8 then 'August'
     WHEN 9 then 'September'
@@ -17,5 +16,6 @@ SELECT
     MAX(TIME_DIFF(ride_length, TIME '00:00:00', MINUTE)) as max_ride_length,
     MIN(TIME_DIFF(ride_length, TIME '00:00:00', MINUTE)) as min_ride_length,
 FROM `portfolio-488812.bikeshare.cleaned_all`
+WHERE month <> 6
 GROUP BY member_casual, month
 ORDER BY month;
