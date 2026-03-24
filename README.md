@@ -41,6 +41,8 @@ I verified if the data meets the **ROCCC (Reliable, Original, Comprehensive, Cur
 4.	It is current, the data collected is vast and less then an year old, with it starting from July which was 8 months ago and ending at December which was 3 months ago.
 5.	Lastly it is citied, as it is present directly and accessible through https://divvy-tripdata.s3.amazonaws.com/index.html . It has proper licenses too which adds to credibility. (https://www.divvybikes.com/data-license-agreement is the license).
 
+   ---
+
 I downloaded the raw data as a CSV file, through excel I first checked if the data was properly formatted, the started_at and ended_at column cell valus were missing dates, only showing time in minutes and seconds, as it was incorrectly formatted. I fixed the formatting by;
 
 1. Selecting the entire column
@@ -66,6 +68,10 @@ I downloaded the raw data as a CSV file, through excel I first checked if the da
 9. I uploaded the data to Google cloud storage.
 10. I created a new dataset called "bikeshare" in BIGQUERY.
 11. I uploaded each of the file into a different table as per month and named each table after the month.
+
+---
+
+
 I checked each cells, data type to make sure it was correctly formatted.
 <img width="1577" height="811" alt="image" src="https://github.com/user-attachments/assets/1203b08b-70c9-45c1-9b1f-92777b54f29d" />
 
@@ -158,6 +164,8 @@ There’s potential to:
 Convert casual users → members (especially electric bike users)
 Promote electric bikes more to members.
 
+---
+
 
 **- Station Preference**
 
@@ -241,6 +249,8 @@ Casual rides are longest (~23–24 min)
 Winter (Nov–Dec):
 Casual rides drop sharply
 
+---
+
 
 **- Ride_Pattern_day_of_week:**
 
@@ -270,7 +280,7 @@ Members take **~68% more rides** than casual users overall.
 👉 **Insight:**
 Members are consistently **more active and frequent riders**, indicating habitual/commute-based usage.
 
----
+
 
  3. Weekly Behavior Patterns
 
@@ -287,7 +297,6 @@ Casual users ride mostly on **weekends**, suggesting:
 * Tourism
 * Social/outdoor activities
 
----
 
 🚴‍♂️ Members (Routine Pattern)
 
@@ -302,7 +311,7 @@ Members ride mostly on **weekdays**, indicating:
 * Daily routines
 * Structured usage patterns
 
----
+
 
 4. Weekday vs Weekend Contrast
 
@@ -317,7 +326,7 @@ There is a **clear behavioral split**:
 * Casual = **Weekend riders**
 * Members = **Weekday riders**
 
-
+---
   
 
 **- Ride_pattern_hour_of_day:**
@@ -375,6 +384,8 @@ Morning (6 AM – 10 AM): Steady increase (commute begins)
 Afternoon (11 AM – 4 PM): Moderate-high activity
 Evening (5 PM – 7 PM): Peak zone
 Night (8 PM onward): Gradual decline
+
+---
 
 **- Ride Pattern over the months**
 <img width="723" height="679" alt="Ride Pattern Over The Months" src="https://github.com/user-attachments/assets/59cd0d57-bb5c-4cb8-8c4f-5cb366767dbc" />
