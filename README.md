@@ -390,136 +390,85 @@ Night (8 PM onward): Gradual decline
 **- Ride Pattern over the months**
 <img width="723" height="679" alt="Ride Pattern Over The Months" src="https://github.com/user-attachments/assets/59cd0d57-bb5c-4cb8-8c4f-5cb366767dbc" />
 
-Key Findings from the Ride Pattern Data
-1. Overall Ride Volume Trend
-Peak month: August – 515,638 rides
-Second highest: July – 494,285 rides
-Lowest month: December – 96,153 rides
+Key Findings – Ride Pattern Analysis (July to December)
+Overall Ride Activity Trend
+The dataset shows a clear seasonal pattern in bike usage.
+Ride activity is highest during summer months and declines steadily toward winter.
+August recorded the highest number of rides, while December had the lowest.
+The total number of rides drops significantly after October, indicating that colder weather likely reduces bike usage.
 
-Insight:
-Ride demand peaks in summer and declines sharply toward winter.
+This suggests that weather and seasonal conditions strongly influence riding behavior.
 
-Interpretation:
-This indicates strong seasonality in bike usage.
+Seasonal Usage Pattern
 
-2. Seasonal Demand Pattern
+Ride activity gradually decreases as the year progresses.
 
-Monthly trend shows:
+July and August show the strongest demand for bike rides.
+September and October still maintain relatively high activity but begin to decline.
+November shows a sharp drop in ridership.
+December has extremely low usage compared to previous months.
 
-Month	Total Rides
-July	494k
-August	515k (Peak)
-September	467k
-October	417k
-November	234k
-December	96k (Lowest)
+This pattern suggests that the bike-sharing service experiences peak demand during warm months, followed by a significant seasonal slowdown.
 
-Key Insight
+Differences Between Members and Casual Riders
 
-Ridership gradually decreases after summer
-There is a major drop between October → November
-December usage is extremely low
+The analysis reveals distinct behavioral differences between member riders and casual riders.
 
-Possible reasons
+Members consistently account for the majority of rides each month.
+Casual riders represent a large portion during summer months, but their usage decreases quickly as winter approaches.
+By December, members make up the vast majority of rides, while casual rider activity becomes minimal.
 
-Cold weather
-Holidays
-Shorter daylight hours
-3. Members vs Casual Users
+This indicates that members rely on bikes more consistently, while casual riders appear to use the service mainly during favorable weather conditions.
 
-Across all months:
+Casual Rider Behavior
 
-Members dominate ridership
-Casual riders are secondary but still significant in summer
+Casual rider activity shows strong seasonal dependence.
 
-Example:
+Key observations:
 
-Month	Member %	Casual %
-July	57.8%	42.2%
-August	57.1%	42.9%
-September	63.1%	36.9%
-October	65.6%	34.4%
-November	72.7%	27.3%
-December	80.4%	19.6%
+Casual ridership peaks during summer, particularly in July and August.
+After August, casual rider activity drops steadily every month.
+By December, casual ridership has declined dramatically.
 
-Insight
+This suggests that casual riders likely use bikes for:
 
-As winter approaches, casual riders drop faster than members.
-4. Casual Riders Are Highly Seasonal
-
-Casual rider pattern:
-
-Month	Casual Rides
-August	221k (peak)
-July	208k
-September	172k
-October	143k
-November	64k
-December	18k
-
-Key Insight
-
-Casual riders decrease by ~91% from August → December.
-
-Meaning
-Casual riders mostly use bikes for:
-
+leisure activities
 tourism
-leisure
-good weather activities
-5. Members Show More Stable Usage
+outdoor recreation
+occasional trips
 
-Members still decline but not as dramatically.
+Their usage appears highly influenced by weather and seasonal factors.
 
-Month	Member Rides
-September	295k (peak)
-August	294k
-July	285k
-October	274k
-November	170k
-December	77k
+Member Rider Behavior
 
-Insight
-Members likely use bikes for:
+Member riders show more stable and consistent usage throughout the months.
 
-commuting
-daily transport
-regular travel
-6. Biggest Month-to-Month Drop
+Important observations:
 
-Largest decline occurs:
+Members maintain relatively high ride counts during summer and early fall.
+Although their activity also decreases toward winter, the decline is much less dramatic compared to casual riders.
+By late fall and winter, members represent the dominant share of riders.
 
-October → November
+This pattern suggests that members likely use bikes for regular transportation needs, such as commuting or daily travel.
 
-Total rides drop from:
+Major Decline in Ridership
 
-417,902 → 234,932
+One of the most significant changes occurs between October and November.
 
-Decrease of 182,970 rides (~44%)
+Ridership experiences a large drop during this transition period.
+This likely reflects seasonal weather changes, shorter daylight hours, and colder temperatures.
 
-7. Member Share Increases in Winter
+This period represents the start of the low-demand season for bike usage.
 
-Member percentage increases over time:
+Shift in Rider Composition Over Time
 
-Summer: ~57–63%
-Winter: ~73–80%
+Another important trend is the increasing proportion of member rides over time.
 
-Insight
-Casual riders disappear in colder months while members continue riding.
+During summer months, the share of casual riders is relatively high.
+As the year progresses, casual riders decrease faster than members.
+By winter, members dominate the majority of total rides.
 
-8. Business Insight
-
-This dataset strongly supports the typical bike-share business pattern:
-
-Casual riders
-
-seasonal
-tourism/leisure driven
-
-Members
-
-consistent
-commute-driven
+This indicates that casual riders are more sensitive to seasonal conditions, while members maintain more consistent usage patterns.
 
 ## 6. Act
 
