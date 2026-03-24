@@ -393,85 +393,40 @@ Night (8 PM onward): Gradual decline
 
 <img width="723" height="679" alt="Ride Pattern Over The Months" src="https://github.com/user-attachments/assets/59cd0d57-bb5c-4cb8-8c4f-5cb366767dbc" />
 
-Key Findings – Ride Pattern Analysis (July to December)
-Overall Ride Activity Trend
-The dataset shows a clear seasonal pattern in bike usage.
-Ride activity is highest during summer months and declines steadily toward winter.
-August recorded the highest number of rides, while December had the lowest.
-The total number of rides drops significantly after October, indicating that colder weather likely reduces bike usage.
+Key Findings – Ride Pattern Analysis (July–December)
+Overall Trend
 
-This suggests that weather and seasonal conditions strongly influence riding behavior.
+Bike usage shows a strong seasonal pattern, with ridership peaking in summer and declining toward winter.
 
-Seasonal Usage Pattern
+August recorded the highest number of rides.
+December had the lowest ridership.
+A noticeable decline begins after October, likely due to colder weather.
+Seasonal Demand
 
-Ride activity gradually decreases as the year progresses.
+Ridership steadily decreases throughout the period.
 
-July and August show the strongest demand for bike rides.
-September and October still maintain relatively high activity but begin to decline.
-November shows a sharp drop in ridership.
-December has extremely low usage compared to previous months.
+July–August: Peak demand
+September–October: Gradual decline
+November–December: Significant drop in rides
 
-This pattern suggests that the bike-sharing service experiences peak demand during warm months, followed by a significant seasonal slowdown.
+This indicates that bike usage is highest during warm months and decreases during colder seasons.
 
-Differences Between Members and Casual Riders
+Member vs Casual Riders
 
-The analysis reveals distinct behavioral differences between member riders and casual riders.
+Clear behavioral differences exist between rider types.
 
-Members consistently account for the majority of rides each month.
-Casual riders represent a large portion during summer months, but their usage decreases quickly as winter approaches.
-By December, members make up the vast majority of rides, while casual rider activity becomes minimal.
+Members account for the majority of rides each month.
+Casual riders are more active during summer.
+Casual ridership declines sharply toward winter.
 
-This indicates that members rely on bikes more consistently, while casual riders appear to use the service mainly during favorable weather conditions.
+By December, members dominate overall ridership.
 
-Casual Rider Behavior
+Rider Behavior Insights
+Casual riders: Highly seasonal; likely use bikes for leisure and recreation.
+Members: More consistent usage; likely rely on bikes for commuting or regular travel.
+Key Insight
 
-Casual rider activity shows strong seasonal dependence.
-
-Key observations:
-
-Casual ridership peaks during summer, particularly in July and August.
-After August, casual rider activity drops steadily every month.
-By December, casual ridership has declined dramatically.
-
-This suggests that casual riders likely use bikes for:
-
-leisure activities
-tourism
-outdoor recreation
-occasional trips
-
-Their usage appears highly influenced by weather and seasonal factors.
-
-Member Rider Behavior
-
-Member riders show more stable and consistent usage throughout the months.
-
-Important observations:
-
-Members maintain relatively high ride counts during summer and early fall.
-Although their activity also decreases toward winter, the decline is much less dramatic compared to casual riders.
-By late fall and winter, members represent the dominant share of riders.
-
-This pattern suggests that members likely use bikes for regular transportation needs, such as commuting or daily travel.
-
-Major Decline in Ridership
-
-One of the most significant changes occurs between October and November.
-
-Ridership experiences a large drop during this transition period.
-This likely reflects seasonal weather changes, shorter daylight hours, and colder temperatures.
-
-This period represents the start of the low-demand season for bike usage.
-
-Shift in Rider Composition Over Time
-
-Another important trend is the increasing proportion of member rides over time.
-
-During summer months, the share of casual riders is relatively high.
-As the year progresses, casual riders decrease faster than members.
-By winter, members dominate the majority of total rides.
-
-This indicates that casual riders are more sensitive to seasonal conditions, while members maintain more consistent usage patterns.
+Casual riders are more sensitive to seasonal changes, while members provide stable ridership throughout the year.
 
 ## 6. Act
 
